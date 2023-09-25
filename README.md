@@ -1,4 +1,3 @@
 # Taskmate React App
 
-taskmate.000.pe
-
+Open [taskmate.000.pe](http://localhost:3000)
