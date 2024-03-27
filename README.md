@@ -1,5 +1,5 @@
 # Taskmate React App
 
-Open [taskmate.com](http://taskmate.000.pe/)
+Open [https://taskmate-nu.vercel.app/]
 
 
